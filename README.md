@@ -20,14 +20,16 @@ Deployed and configured essential equipment to establish a productive workspace 
 
 ## High-Level Deployment and Configuration Steps
 
-- Conducted a site survey to assess the workspace layout and requirements.
-- Procured necessary hardware equipment based on the survey findings.
-- Installed and configured workstations, monitors, and laptops according to standard guidelines.
-- Deployed Ethernet cabling infrastructure to ensure reliable network connectivity.
-- Set up desktop printers, copy machines, and postage machines in designated areas.
-- Tested all hardware components to ensure proper functionality.
-- Provided training sessions for employees to familiarize them with the new equipment and workflows.
-- Documented the setup process and hardware configurations for future reference.
+- Conduct a site survey to assess the workspace layout and requirements
+- Procured necessary hardware equipment based on the survey findings
+- Install ethernet cabling, patch panel, and managed switch
+- Set up monitors, desktop printers, copy machines, and postage machines in designated areas
+- Installed and configured workstations and laptops
+    - Joined machines to the AD domain
+    - Installed Microsoft Office 2019
+    - Installed and configured Google Workspaces Sync
+    - Installed Bitdefender GravityZone client software
+- Provide training sessions for employees to familiarize them with the new equipment
 
 <h2>Architecture Diagram</h2>
 
