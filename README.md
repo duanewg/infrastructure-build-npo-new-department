@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/office-logo.jpeg" width="80%"alt="Logo Text There" />
+<img src="assets/office-logo.jpeg" alt="Logo Text There" />
 </p>
 
 # Infrastructure Build for NPO's New Department
