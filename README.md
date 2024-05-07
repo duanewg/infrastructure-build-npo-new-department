@@ -3,7 +3,7 @@
 <!-- <img src="assets/logo.svg" alt="Logo Text There" /> -->
 </p>
 
-# Project Title
+# Infrastructure Build for NPO's New Department
 Deployed and configured essential equipment to establish a productive workspace environment. This included setting up workstations, monitors, ethernet cabling, network equipment, desktop printers, copy machines, postage machines, and laptops.
 
 ## Environments and Technologies Used
