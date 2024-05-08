@@ -19,8 +19,7 @@ Deployed and configured essential equipment to establish a productive workspace 
 
 ## High-Level Deployment and Configuration Steps
 
-- Conduct a site survey to assess the workspace layout and requirements
-- Procured necessary hardware equipment based on the survey findings
+- Survey the site and acquire the equipment required based on the workspace assessment.
 - Install ethernet cabling, patch panel, and managed switch
 - Set up monitors, desktop printers, copy machines, and postage machines in designated areas
 - Installed and configured workstations and laptops
